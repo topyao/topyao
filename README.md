@@ -1,6 +1,6 @@
 <p style="display:flex; justify-content: space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=topyao&show_icons=true&theme=tokyonight" alt="my github stats" width="400px" height="177px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topyao&layout=compact&theme=tokyonight" alt="languages" width="400px" height="177px">
+  <img src="https://github-readme-stats.vercel.app/api?username=topyao&show_icons=true&theme=light" alt="my github stats" width="400px" height="177px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topyao&layout=compact&theme=light" alt="languages" width="400px" height="177px">
 </p>
 
 <!--
