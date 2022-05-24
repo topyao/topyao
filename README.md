@@ -1,4 +1,4 @@
-# Hi there 👋 <img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="50" />
+# Welcome, Bienvenida, 欢迎, Bienvenue, いらっしゃいませ, Receber, Добро пожаловать 👋 <img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="50" />
 
 
 🎉 Welcome to my GitHub profile!
