@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=topyao&column=7" alt="Albertchamberlain's Github Trophy" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=topyao&column=7" alt="Yao's Github Trophy" />
 </p>
 <!-- <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topyao&hide_border=true&count_private=true" hight="200" />
