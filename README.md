@@ -1,7 +1,7 @@
 # Welcome, Bienvenida, 欢迎, Bienvenue, いらっしゃいませ, Receber, Добро пожаловать 👋 <img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="50" />
 
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
+  <a href="https://1kmb.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22Hope%20you%20happy%20everyday%22);&center=true&size=19">
   </a>
 </h1>
